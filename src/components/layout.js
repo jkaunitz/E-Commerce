@@ -1,11 +1,11 @@
 import React, { Component } from 'react';
 
-export default class App extends Component {
+export default class Layout extends Component {
   render() {
     return (
-      <div className='app'>
+      <div>
         <h1>Ecom</h1>
-        <h2>React Redux Router</h2>
+        
       </div>
     );
   }
